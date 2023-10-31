@@ -15,7 +15,6 @@ A Python project that crawls information about the top 250 movies from IMDb and 
   <img src="https://img.shields.io/github/languages/count/saeed-at/IMDb-Top-250-Movies-Crawler-and-Database" alt="Languages Count">
 </div>
 
-## Table of Contents
 
 ## Table of Contents
 
